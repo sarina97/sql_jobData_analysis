@@ -1,0 +1,9 @@
+.vscode/
+
+
+*.csv
+
+*.txt
+
+.DS_Store
+Thumbs.db
